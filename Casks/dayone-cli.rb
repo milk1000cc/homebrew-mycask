@@ -4,7 +4,7 @@ class DayoneCli < Cask
 
   url 'http://dayoneapp.com/downloads/dayone-cli.pkg'
   homepage 'http://dayoneapp.com/tools/cli-man/'
-  license :closed
+  license :commercial
 
   pkg 'dayone-cli.pkg'
 end
