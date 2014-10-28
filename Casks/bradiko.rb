@@ -6,5 +6,5 @@ class Bradiko < Cask
   homepage 'http://www.ne.jp/asahi/mac/bui/radiko/'
   license :gratis
 
-  app 'BRadiko.app'
+  app "BRadiko.#{ version }/BRadiko.app"
 end
