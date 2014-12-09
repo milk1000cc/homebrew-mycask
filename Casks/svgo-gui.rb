@@ -1,4 +1,4 @@
-class SvgoGui < Cask
+cask :v1 => 'svgo-gui' do
   version :latest
   sha256 :no_check
 

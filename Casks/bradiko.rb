@@ -1,4 +1,4 @@
-class Bradiko < Cask
+cask :v1 => 'bradiko' do
   version '0.92.06'
   sha256 '327bbb8dbd97d37163d5edac28622e934c696aeffb1b43af028bed58571b4798'
 
