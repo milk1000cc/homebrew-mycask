@@ -4,7 +4,6 @@ cask 'bradiko' do
 
   url "http://buimemo.artman21.co.jp/buimemo/radiko/BRadiko.#{ version }.zip"
   homepage 'http://www.ne.jp/asahi/mac/bui/radiko/'
-  license :gratis
 
   app "BRadiko.#{ version }/BRadiko.app"
 end
