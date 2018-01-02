@@ -1,6 +1,6 @@
 cask 'bradiko' do
-  version '0.98.09'
-  sha256 '43c24021c430bc34bee7ea5bfc26cafa4f04f115a82274731f852be3b4419e2f'
+  version '0.98.10'
+  sha256 'b92486bd82664261209f1090ceeb80d306bf35e3e8af4179e488d5f4e9cdbe4a'
 
   url "http://buimemo.artman21.co.jp/buimemo/radiko/BRadiko.#{ version }.zip"
   homepage 'http://www.ne.jp/asahi/mac/bui/radiko/'
